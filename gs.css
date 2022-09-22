@@ -1,0 +1,46 @@
+.speech{font-family: sans-serif; font-size: 12px;color: black}
+.song{font-family: sans-serif; font-size: 12px;color: black}
+.duet{font-family: sans-serif; font-size: 12px;color: black}
+.scene{font-family: sans-serif; font-size: 12px;color: black}
+
+.name{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:15px;
+    color:black;
+}
+.name:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(21, 54, 239);
+}
+.direction{background-color: rgb(249, 249, 242);font-family:'Courier New', Courier, monospace; font-size:10px;color:rgb(12, 13, 14)}
+.direction:hover{
+    background-color: aqua;
+    color: blue;
+}
+.ZARA{
+    color: rgb(250, 18, 169);
+}
+.FITZ{
+    color:rgb(14, 231, 65);
+
+}
+.KING{
+    color:rgb(27, 63, 222);
+
+}
+.LORD D{
+    color:rgb(22, 4, 6);
+
+}
+.CHORUS{
+    color:rgb(48, 10, 235);
+
+}
+.SCAPHIO{
+    color:rgb(166, 9, 51);
+
+}
+.PHANTIS{
+    color:rgb(230, 134, 16);
+
+}
